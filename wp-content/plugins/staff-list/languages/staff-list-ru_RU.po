@@ -1,0 +1,1801 @@
+# Translation of Plugins - Staff List - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Staff List - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-07 08:11:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Staff List - Stable (latest release)\n"
+
+#: admin/txt-admin.php:1389
+msgid "Copy from Address - Multipart Field"
+msgstr "Копировать с адреса - составное поле"
+
+#: admin/txt-admin.php:1035
+msgid "Field Display Order - Staff/Single Pages"
+msgstr "Порядок отображения полей - персонал/отдельные страницы"
+
+#: admin/txt-admin.php:586
+msgid "Copy from Name - Multipart Field"
+msgstr "Копировать из имени - составное поле"
+
+#. Description of the plugin
+msgid "Easily create list of staff members. Add single pages, filters and menus."
+msgstr "Легко создавать список сотрудников. Добавляйте отдельные страницы, фильтры и меню."
+
+#: admin/txt-admin.php:663
+msgid "Custom Icons"
+msgstr "Произвольные значки"
+
+#: admin/txt-admin.php:1330
+msgid "Add download attribute."
+msgstr "Добавьте атрибут загрузки."
+
+#: admin/txt-admin.php:1379
+msgid "QR Code Image Base64 Dynamic"
+msgstr "QR-код изображения Base64 динамический"
+
+#: admin/txt-admin.php:1376
+msgid "Dynamic Alt"
+msgstr "Динамический Alt"
+
+#: admin/txt-admin.php:1373
+msgid "Dynamic Caption"
+msgstr "Динамическая подпись"
+
+#: admin/txt-admin.php:1370
+msgid "Static Alt"
+msgstr "Статический Alt"
+
+#: admin/txt-admin.php:1367
+msgid "Static Caption"
+msgstr "Статическая подпись"
+
+#: admin/txt-admin.php:1364
+msgid "Dynamic image."
+msgstr "Динамическое изображение."
+
+#: admin/txt-admin.php:1361
+msgid "QR Code Image Base64 Static"
+msgstr "QR-код изображения Base64 статический"
+
+#: admin/txt-admin.php:1345
+msgid "QR Code Hyperlink (Base64 dynamic). Discontinued."
+msgstr "Гиперссылка QR-кода (Base64 dynamic). Прекращено."
+
+#: admin/txt-admin.php:1342
+msgid "QR Code Hyperlink (Base64 static). Discontinued."
+msgstr "Гиперссылка QR-кода (Base64 static). Прекращено."
+
+#: admin/txt-admin.php:1358
+msgid "Custom Inline Style - Text Container"
+msgstr "Пользовательский встроенный стиль - текстовый контейнер"
+
+#: admin/txt-admin.php:1354
+msgid "Custom CSS Class - Text Container"
+msgstr "Пользовательский класс CSS - текстовый контейнер"
+
+#: admin/txt-admin.php:1348
+msgid "Yes, link to custom (static) pages."
+msgstr "Да, ссылка на пользовательские (статические) страницы."
+
+#: admin/txt-admin.php:1097
+msgid "Text 2 Top Margin"
+msgstr "Текст 2 верхний отступ"
+
+#: admin/txt-admin.php:1094
+msgid "Text 2"
+msgstr "Текст 2"
+
+#: admin/txt-admin.php:1091
+msgid "Text 1"
+msgstr "Текст 1"
+
+#: admin/txt-admin.php:1351
+msgid "Image Attributes"
+msgstr "Атрибуты изображения"
+
+#: admin/txt-admin.php:1339
+msgid "QR File Name"
+msgstr "Имя файла QR"
+
+#: admin/txt-admin.php:1336
+msgid "QR Files URL"
+msgstr "URL-адрес QR-файлов"
+
+#: admin/txt-admin.php:1333
+msgid "QR Files Upload Directory"
+msgstr "Каталог загрузки QR-файлов"
+
+#: admin/txt-admin.php:1026
+msgid "Update the shortcode (on staff page) after template conversion!"
+msgstr "Обновите шорткод (на странице персонала) после преобразования шаблона!"
+
+#: admin/txt-admin.php:1327
+msgid "vCard template not found."
+msgstr "Шаблон vCard не найден."
+
+#: admin/txt-admin.php:1323
+msgid "vCard template not selected."
+msgstr "Шаблон vCard не выбран."
+
+#: admin/txt-admin.php:1320
+msgid "vCard Hyperlink"
+msgstr "vCard Гиперссылка"
+
+#: admin/txt-admin.php:1277
+msgid "Hide URL 1"
+msgstr "Скрыть URL 1"
+
+#: admin/txt-admin.php:1317
+msgid "Apartment, suite number"
+msgstr "Квартира, апартаменты и т. д."
+
+#: admin/txt-admin.php:1314
+msgid "City"
+msgstr "Город"
+
+#: admin/txt-admin.php:1311
+msgid "Country"
+msgstr "Страна"
+
+#: admin/txt-admin.php:1308
+msgid "Zipcode"
+msgstr "Индекс"
+
+#: admin/txt-admin.php:1305
+msgid "State"
+msgstr "Область"
+
+#: admin/txt-admin.php:1302
+msgid "Country Name"
+msgstr "Страна"
+
+#: admin/txt-admin.php:1299
+msgid "Zipcode (postal code)"
+msgstr "Индекс (почтовый)"
+
+#: admin/txt-admin.php:1296
+msgid "State (region, province)"
+msgstr "Штат (область, край)"
+
+#: admin/txt-admin.php:1292
+msgid "City (locality)"
+msgstr "Город"
+
+#: admin/txt-admin.php:1289
+msgid "Extended Address (apartment or suite number)"
+msgstr "Расширенный адрес (номер квартиры или квартиры)"
+
+#: admin/txt-admin.php:1286
+msgid "Street Address"
+msgstr "Адрес улицы"
+
+#: admin/txt-admin.php:1280
+msgid "Hide vCard link"
+msgstr "Скрыть ссылку vCard"
+
+#: admin/txt-admin.php:1274
+msgid "Hide address"
+msgstr "Скрыть адрес"
+
+#: admin/txt-admin.php:1268
+msgid "Address - Multipart Field"
+msgstr "Адрес - составное поле"
+
+#: admin/txt-admin.php:1283
+msgid "vCard plugin not installed!"
+msgstr "Плагин vCard не установлен!"
+
+#: admin/txt-admin.php:1271
+msgid "Hide photo"
+msgstr "Скрыть фото"
+
+#: admin/txt-admin.php:1265
+msgid "vCard Template"
+msgstr "шаблон визитной карточки"
+
+#: admin/txt-admin.php:982
+msgid "Input Field Labels"
+msgstr "Ярлыки входных полей"
+
+#: admin/txt-admin.php:1519
+msgid "Label and optional description to identify the input fields. For staff member data entry screen only, not front end."
+msgstr "Этикетка и необязательное описание для идентификации полей ввода. Только для экрана ввода данных о сотруднике, а не для внешнего интерфейса."
+
+#: admin/txt-admin.php:1516
+msgid "Top Margin - Staff Page"
+msgstr "Верхний отзыв - Страница персонала"
+
+#: admin/txt-admin.php:1510
+msgid "Text Style - Staff Page"
+msgstr "Стиль текста - Страница персонала"
+
+#: admin/txt-admin.php:1507
+msgid "Static Label Style - Staff Page"
+msgstr "Статический стиль этикетки - страница персонала"
+
+#: admin/txt-admin.php:1504
+msgid "Text CSS Class"
+msgstr "CSS класс Текста"
+
+#: admin/txt-admin.php:1501
+msgid "Static Label CSS Class"
+msgstr "Статическая этикетка CSS-класс"
+
+#: admin/txt-admin.php:1498
+msgid "Field Container CSS Class"
+msgstr "CSS-класс контейнера поля"
+
+#: admin/txt-admin.php:1491
+msgid "Top Margin - Single Page"
+msgstr "Верхний отступ - Одиночная страница"
+
+#: admin/txt-admin.php:1479
+msgid "Displayed above the field value container."
+msgstr "Отображается над контейнером значения поля."
+
+#: admin/txt-admin.php:1476
+msgid "Text Style - Single Page"
+msgstr "Стиль текста - одна страница"
+
+#: admin/txt-admin.php:1473
+msgid "Static Label Style - Single Page"
+msgstr "Статический стиль этикетки - одна страница"
+
+#: admin/txt-admin.php:868
+msgid "This is the field title (label) the user will see when filling out the form."
+msgstr "Это заголовок (этикетка) поля, который пользователь увидит при заполнении формы."
+
+#: admin/txt-admin.php:424
+msgid "Field Style - Staff Page"
+msgstr "Стиль поля - страница персонала"
+
+#: admin/txt-admin.php:1165
+msgid "Add link to staff image (image hyperlink)."
+msgstr "Добавить ссылку на изображение персонала (гиперссылка на изображение)."
+
+#: admin/txt-admin.php:1467
+msgid "Yes, link to hybrid pages."
+msgstr "Да, ссылка на гибридные страницы."
+
+#: admin/txt-admin.php:1463
+msgid "Staff template not selected!"
+msgstr "Шаблон персонала не выбран!"
+
+#: admin/txt-admin.php:434
+msgid "Links to Single Page"
+msgstr "Ссылки на одну страницу"
+
+#: admin/txt-admin.php:431
+msgid "Text Link Style"
+msgstr "Стиль текстовой ссылки"
+
+#: admin/txt-admin.php:1460
+msgid "Spacer"
+msgstr "Интервал"
+
+#: admin/txt-admin.php:1457
+msgid "Text style."
+msgstr "Текстовый стиль."
+
+#: admin/txt-admin.php:1454
+msgid "Text class."
+msgstr "Текстовый класс."
+
+#: admin/txt-admin.php:1451
+msgid "Static label style."
+msgstr "Статический стиль этикетки."
+
+#: admin/txt-admin.php:1448
+msgid "Static label class."
+msgstr "Класс статической этикетки."
+
+#: admin/txt-admin.php:1445
+msgid "Field container style."
+msgstr "Стиль контейнера поля."
+
+#: admin/txt-admin.php:1442
+msgid "Field container class."
+msgstr "Класс контейнера поля."
+
+#: admin/txt-admin.php:1439
+msgid "Custom class or style is required."
+msgstr "Custom class or style is required."
+
+#: admin/txt-admin.php:1215
+msgid "Optional. Read only field. Provide some description."
+msgstr "По желанию. Поле только для чтения. Дайте некоторое описание."
+
+#: admin/txt-admin.php:908
+msgid "To horizontally center container when width < 100%."
+msgstr "Для горизонтального центрирования контейнера при ширине <100%."
+
+#: admin/txt-admin.php:858
+msgid "Field container HTML tag. Default = DIV."
+msgstr "HTML-тег контейнера поля. По умолчанию = DIV."
+
+#: admin/txt-admin.php:759
+msgid "Default = your theme's font."
+msgstr "По умолчанию = шрифт вашей темы."
+
+#: admin/txt-admin.php:685
+msgid "To override the default styles."
+msgstr "Чтобы переопределить стили по умолчанию."
+
+#: admin/txt-admin.php:1436
+msgid "Source of Data"
+msgstr "Источник данных"
+
+#: admin/txt-admin.php:1432
+msgid "Field Parts Order the same as:"
+msgstr "Порядок полевых частей такой же, как:"
+
+#: admin/txt-admin.php:1175
+msgid "Phone + Static Label"
+msgstr "Телефон + статичная этикетка"
+
+#: admin/txt-admin.php:1199
+msgid "Why my single page is blank?"
+msgstr "Почему моя единственная страница пуста?"
+
+#: admin/txt-admin.php:1196
+msgid "Month Names"
+msgstr "Названия месяцев"
+
+#: admin/txt-admin.php:1187
+msgid "Months"
+msgstr "Месяцы"
+
+#: admin/txt-admin.php:1184
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: admin/txt-admin.php:1423
+msgid "Icon Type"
+msgstr "Тип значка"
+
+#: admin/txt-admin.php:1420
+msgid "Excluded Slugs"
+msgstr "Исключительный ярлык"
+
+#: admin/txt-admin.php:1417
+msgid "Icon Spacing (Horizontal)"
+msgstr "Расстояние между значками (по горизонтали)"
+
+#: admin/txt-admin.php:1414
+msgid "Icon Style"
+msgstr "Стиль значка"
+
+#: admin/txt-admin.php:1411
+msgid "Icon Name"
+msgstr "Название значка"
+
+#: admin/txt-admin.php:1408
+msgid "Icon Class"
+msgstr "Класс значка"
+
+#: admin/txt-admin.php:1258
+msgid "Style - Icon Off"
+msgstr "Стиль - значок выключен"
+
+#: admin/txt-admin.php:1255
+msgid "Style - Icon On"
+msgstr "Стиль - значок включен"
+
+#: admin/txt-admin.php:1252
+msgid "Class - Icon Off"
+msgstr "Класс - значок выключен"
+
+#: admin/txt-admin.php:1249
+msgid "Class - Icon On"
+msgstr "Класс - значок включен"
+
+#: admin/txt-admin.php:1246
+msgid "Max Number of Icons"
+msgstr "Максимальное количество иконок"
+
+#: admin/txt-admin.php:1243
+msgid "Icon Tag"
+msgstr "Метка значка"
+
+#: admin/txt-admin.php:1218
+msgid "Date Display Format"
+msgstr "Формат отображения даты"
+
+#: admin/txt-admin.php:1212
+msgid "Image Caption - Top Margin"
+msgstr "Подпись к изображению - верхнее поле"
+
+#: admin/txt-admin.php:1209
+msgid "Image Caption - Font"
+msgstr "Подпись к изображению - Шрифт"
+
+#: admin/txt-admin.php:1206 admin/txt-admin.php:1237
+msgid "Image Container - Top Margin"
+msgstr "Контейнер изображения - верхнее поле"
+
+#: admin/txt-admin.php:1382
+msgid "Image Hyperlink + Caption"
+msgstr "Гиперссылка на изображение + Заголовок"
+
+#: admin/txt-admin.php:1385
+msgid "Image + Caption"
+msgstr "Изображение + Заголовок"
+
+#: admin/txt-admin.php:1193
+msgid "WordPress Version"
+msgstr "Версия WordPress"
+
+#: admin/txt-admin.php:1190
+msgid "Database Version"
+msgstr "Версия базы данных"
+
+#: admin/txt-admin.php:1181
+msgid "Field Label - Visible Text"
+msgstr "Этикетка поля - видимый текст"
+
+#: admin/txt-admin.php:1178
+msgid "Field Label - Number to Dial (href)"
+msgstr "Этикетка поля - номер для набора (href)"
+
+#: admin/txt-admin.php:1172
+msgid "Disable wpautop"
+msgstr "Отключить wpautop"
+
+#: admin/txt-admin.php:1168
+msgid "Image Defaults"
+msgstr "Настройки изображения по умолчанию"
+
+#: admin/txt-admin.php:1162
+msgid "Use the same image for Staff Page and Single Page"
+msgstr "Используйте одно и то же изображение для страницы персонала и отдельной страницы"
+
+#: admin/txt-admin.php:235
+msgid "Text Link to Single Page"
+msgstr "Текстовая ссылка на отдельную страницу"
+
+#. Translators: Post date/time "title" attribute.
+#: library/abcfl-attr.php:320
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, d.m.Y, g:i a"
+
+#. Translators: The %s is the sidebar name. This is used for the 'aria-label'
+#. attribute.
+#: library/abcfl-attr.php:203
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr "%s Область виджетов"
+
+#. Translators: The %s is the menu name. This is used for the 'aria-label'
+#. attribute.
+#: library/abcfl-attr.php:180
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr "%s Меню"
+
+#: inc/post-types.php:88 inc/post-types.php:89
+msgid "Edit Category"
+msgstr "Изменить категорию"
+
+#: inc/post-types.php:87
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+#: inc/post-types.php:86 inc/post-types.php:90
+msgid "Staff Categories"
+msgstr "Категории персонала"
+
+#: inc/post-types.php:113 inc/post-types.php:139
+msgid "Add Menu"
+msgstr "Добавить меню"
+
+#: admin/txt-admin.php:1159
+msgid "Checkbox Values"
+msgstr "Значения флажков"
+
+#: admin/txt-admin.php:1153
+msgid "CSS class name(s) to override the default styles."
+msgstr "Имя (я) классов CSS для переопределения стилей по умолчанию."
+
+#: admin/txt-admin.php:1150
+msgid "How to add grouping to staff list page."
+msgstr "Как добавить группировку на страницу со списком сотрудников."
+
+#: admin/txt-admin.php:1147
+msgid "Optional. Displayed inline, next to the field value."
+msgstr "По желанию. Отображается в строке рядом со значением поля."
+
+#: admin/txt-admin.php:1144
+msgid "Locale"
+msgstr "Locale"
+
+#: admin/txt-admin.php:1141
+msgid "Sort Ouput Alphabetically"
+msgstr "Сортировать по алфавиту"
+
+#: admin/txt-admin.php:1137
+msgid "Field Text"
+msgstr "Текст поля"
+
+#: admin/txt-admin.php:1134
+msgid "Field Container"
+msgstr "Полевой контейнер"
+
+#: admin/txt-admin.php:1131
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: admin/txt-admin.php:1128
+msgid "Number of Dropdowns"
+msgstr "Количество выпадающих списков"
+
+#: admin/txt-admin.php:1125
+msgid "Group Name"
+msgstr "Имя группы"
+
+#: admin/txt-admin.php:1122
+msgid "Group Name Container"
+msgstr "Контейнер имени группы"
+
+#: admin/txt-admin.php:1119
+msgid "Field to group by."
+msgstr "Поле для группировки."
+
+#: admin/txt-admin.php:1116
+msgid "Group Letters"
+msgstr "Групповые письма"
+
+#: admin/txt-admin.php:1113
+msgid "Group Names"
+msgstr "Имена групп"
+
+#: admin/txt-admin.php:1057
+msgid "Type of Grouping"
+msgstr "Тип группировки"
+
+#: admin/txt-admin.php:1054
+msgid "Group by first letter A-Z."
+msgstr "Группируйте по первой букве от A до Z."
+
+#: admin/txt-admin.php:1051
+msgid "Group by text."
+msgstr "Группируйте по тексту."
+
+#: admin/txt-admin.php:1048
+msgid "Group by categories."
+msgstr "Группируйте по категориям."
+
+#: admin/txt-admin.php:1044
+msgid "Text to display as mailto hyperlink."
+msgstr "Текст для отображения в виде гиперссылки mailto."
+
+#: admin/txt-admin.php:1038
+msgid "Email with Static Text"
+msgstr "Электронная почта со статическим текстом"
+
+#: admin/txt-admin.php:1029
+msgid "Single Page - Prefix/Suffix"
+msgstr "Одна страница - префикс / суффикс"
+
+#: admin/txt-admin.php:899
+msgid "How to add shortcode parameter to the shortcode."
+msgstr "Как добавить параметр шорткода в шорткод."
+
+#: admin/txt-admin.php:812
+msgid "Text to display as link text."
+msgstr "Текст для отображения в виде текста ссылки."
+
+#: admin/txt-admin.php:725
+msgid "Enter an icon name. It has to match exactly the custom icon name."
+msgstr "Введите имя значка. Он должен точно соответствовать имени пользовательского значка."
+
+#: admin/txt-admin.php:626
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: admin/txt-admin.php:378
+msgid "Staff Page - Prefix/Suffix"
+msgstr "Страница персонала - префикс / суффикс"
+
+#: library/abcfl-autil.php:159 library/abcfl-autil.php:172
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Извините, у вас нет доступа к этой странице."
+
+#: library/abcfl-autil.php:106
+msgid "The license key is required for automated updates."
+msgstr "Лицензионный ключ необходим для автоматических обновлений."
+
+#: library/abcfl-autil.php:70
+msgid "The license key is required for automatic updates."
+msgstr "Лицензионный ключ необходим для автоматического обновления."
+
+#: inc/post-types.php:25 inc/post-types.php:53
+msgid "Add Template"
+msgstr "Добавить шаблон"
+
+#: admin/txt-admin.php:1110
+msgid "Order"
+msgstr "Сортировка"
+
+#: admin/txt-admin.php:1106
+msgid "Template"
+msgstr "Шаблон"
+
+#: admin/txt-admin.php:1075
+msgid "Staff Page Shortcode"
+msgstr "Шорткод страницы персонала"
+
+#: admin/txt-admin.php:1020
+msgid "Manual entry"
+msgstr "Ручной ввод"
+
+#: admin/txt-admin.php:1017
+msgid "Sort Text Field - Data Entry Options"
+msgstr "Сортировка текстового поля - параметры ввода данных"
+
+#: admin/txt-admin.php:1010
+msgid "Display email address as plain text."
+msgstr "Отображать адрес электронной почты в виде обычного текста."
+
+#: admin/txt-admin.php:1001
+msgid "Single Page Shortcode"
+msgstr "Одностраничный шорткод"
+
+#: admin/txt-admin.php:948
+msgid "Hide link to Single Page."
+msgstr "Скрыть ссылку на отдельную страницу."
+
+#: admin/txt-admin.php:939
+msgid "Getting Started"
+msgstr "Начиная"
+
+#: admin/txt-admin.php:920
+msgid "Convert to ..."
+msgstr "Перевести в ..."
+
+#: admin/txt-admin.php:902
+msgid "Displayed inline, next to the field value."
+msgstr "Отображается в строке рядом со значением поля."
+
+#: admin/txt-admin.php:874
+msgid "To use the same image for Staff Page and Single Page enter <span class=\"abcflFontW700\">SP</span>."
+msgstr "Чтобы использовать одно и то же изображение для страницы персонала и отдельной страницы, введите <span class=\"abcflFontW700\">SP</span>."
+
+#: admin/txt-admin.php:744
+msgid "How to publish staff page."
+msgstr "Как опубликовать страницу персонала."
+
+#: admin/txt-admin.php:623
+msgid "Default: Social Media Links (Icons)"
+msgstr "По умолчанию: ссылки на социальные сети (значки)."
+
+#: admin/txt-admin.php:583
+msgid "Copy from Single Line Text field"
+msgstr "Копировать из однострочного текстового поля"
+
+#: admin/txt-admin.php:579
+msgid "Sort Text field"
+msgstr "Сортировка текстового поля"
+
+#: admin/txt-admin.php:254
+msgid "Create a Staff Template and 3 Staff Member records."
+msgstr "Создайте шаблон персонала и 3 записи о сотрудниках."
+
+#: admin/txt-admin.php:846
+msgid "Static Label"
+msgstr "Статичная этикетка"
+
+#: admin/txt-admin.php:837
+msgid "First Item Text"
+msgstr "Текст первой позиции"
+
+#: admin/txt-admin.php:827
+msgid "First Item Value"
+msgstr "Значение первого предмета"
+
+#: admin/txt-admin.php:592
+msgid "List Items"
+msgstr "Элементы списка"
+
+#: admin/txt-admin.php:728
+msgid "Drop-Down List"
+msgstr "Выпадающий список"
+
+#: admin/txt-admin.php:610
+msgid "Link onClick JS"
+msgstr "Ссылка onClick JS"
+
+#: admin/txt-admin.php:607
+msgid "Link Attributes"
+msgstr "Атрибуты ссылки"
+
+#: admin/txt-admin.php:1082
+msgid "Screen Min Width:"
+msgstr "Минимальная ширина экрана:"
+
+#: admin/txt-admin.php:778
+msgid "Left/Right Panels - Width"
+msgstr "Левая / правая панели - ширина"
+
+#: admin/txt-admin.php:604
+msgid "Image Left/Right Margins"
+msgstr "Левое / правое поля изображения"
+
+#: admin/txt-admin.php:601
+msgid "How to add menu to a page."
+msgstr "Как добавить меню на страницу."
+
+#: admin/txt-admin.php:598
+msgid "Menu Label"
+msgstr "Этикетка меню"
+
+#: admin/txt-admin.php:415
+msgid "Add Script: Images Loaded"
+msgstr "Добавить скрипт: изображения загружены"
+
+#: admin/txt-admin.php:412
+msgid "After all images are loaded."
+msgstr "После того, как все изображения загружены."
+
+#: admin/txt-admin.php:275
+msgid "When images start loading."
+msgstr "Когда изображения начинают загружаться."
+
+#: admin/txt-admin.php:865
+msgid "Staff Members are listed in alphabetical order by the Sort Text field."
+msgstr "Сотрудники перечислены в алфавитном порядке в поле «Сортировка текста»."
+
+#: admin/txt-admin.php:679
+msgid "Supports HTML tags."
+msgstr "Поддерживает HTML-теги."
+
+#: admin/txt-admin.php:576
+msgid "Field Parts Order"
+msgstr "Порядок полевых деталей"
+
+#: admin/txt-admin.php:573
+msgid "Shortcode options."
+msgstr "Параметры шорткода."
+
+#: admin/txt-admin.php:570
+msgid "ALT Tag"
+msgstr "ALT тег"
+
+#: admin/txt-admin.php:567
+msgid "Linked Fields"
+msgstr "Связанные поля"
+
+#: admin/txt-admin.php:564
+msgid "Embeded Item"
+msgstr "Встроенный элемент"
+
+#: admin/txt-admin.php:561
+msgid "Value"
+msgstr "Значение"
+
+#: admin/txt-admin.php:555
+msgid "Type Name"
+msgstr "Имя типа"
+
+#: admin/txt-admin.php:552
+msgid "Structured Data"
+msgstr "Структурированные данные"
+
+#: admin/txt-admin.php:548
+msgid "Property Name"
+msgstr "Имя свойства"
+
+#: admin/txt-admin.php:390
+msgid "Multipart Field"
+msgstr "Составное поле"
+
+#: admin/txt-admin.php:1032
+msgid "Sort Option"
+msgstr "Вариант сортировки"
+
+#: admin/txt-admin.php:1041
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: admin/txt-admin.php:973
+msgid "Filter Controls"
+msgstr "Элементы управления фильтром"
+
+#: admin/txt-admin.php:942
+msgid "Label Text"
+msgstr "Текст этикетки"
+
+#: admin/txt-admin.php:871
+msgid "Search Button"
+msgstr "Кнопка поиска"
+
+#: admin/txt-admin.php:852
+msgid "Filters Container"
+msgstr "Контейнер фильтров"
+
+#: admin/txt-admin.php:840
+msgid "Overlay"
+msgstr "Перекрытие"
+
+#: admin/txt-admin.php:815
+msgid "Animations on Hover"
+msgstr "Анимация при наведении"
+
+#: admin/txt-admin.php:756
+msgid "Drop Shadow"
+msgstr "Падающая тень"
+
+#: admin/txt-admin.php:747
+msgid "Tilt"
+msgstr "Наклон"
+
+#: admin/txt-admin.php:738
+msgid "Category Filter"
+msgstr "Категория Фильтр"
+
+#: admin/txt-admin.php:691
+msgid "Lighten"
+msgstr "Осветлить"
+
+#: admin/txt-admin.php:669
+msgid "Darken"
+msgstr "Затемнить"
+
+#: admin/txt-admin.php:620
+msgid "Containers"
+msgstr "Контейнеры"
+
+#: admin/txt-admin.php:545
+msgid "Labels"
+msgstr "Этикетки"
+
+#: admin/txt-admin.php:542
+msgid "Custom Placeholders"
+msgstr "Пользовательские заполнители"
+
+#: admin/txt-admin.php:539
+msgid "Records are filtered by the first letter of the search field content."
+msgstr "Записи фильтруются по первой букве содержимого поля поиска."
+
+#: admin/txt-admin.php:536
+msgid "Circular Image"
+msgstr "Круговое изображение"
+
+#: admin/txt-admin.php:533
+msgid "Single Field Search"
+msgstr "Поиск по одному полю"
+
+#: admin/txt-admin.php:530
+msgid "Default Placeholder"
+msgstr "Заполнитель по умолчанию"
+
+#: admin/txt-admin.php:527
+msgid "Image Placeholders"
+msgstr "Заполнители изображений"
+
+#: admin/txt-admin.php:524
+msgid "Delete Filter"
+msgstr "Удалить фильтр"
+
+#: admin/txt-admin.php:517
+msgid "Decolorize"
+msgstr "Обесцветить"
+
+#: admin/txt-admin.php:514
+msgid "No Records Found Message"
+msgstr "Сообщение Записи не найдены"
+
+#: admin/txt-admin.php:511
+msgid "Blue"
+msgstr "Синий"
+
+#: admin/txt-admin.php:508
+msgid "Location"
+msgstr "Местоположение"
+
+#: admin/txt-admin.php:505
+msgid "Bottom"
+msgstr "Нижний"
+
+#: admin/txt-admin.php:502
+msgid "Top"
+msgstr "Сверху"
+
+#: admin/txt-admin.php:499
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: admin/txt-admin.php:496
+msgid "Help Text"
+msgstr "Текст справки"
+
+#: admin/txt-admin.php:493
+msgid "Number of Page Links"
+msgstr "Количество ссылок на страницу"
+
+#: admin/txt-admin.php:490
+msgid "Right"
+msgstr "Верно"
+
+#: admin/txt-admin.php:486
+msgid "Center"
+msgstr "Центр"
+
+#: admin/txt-admin.php:483
+msgid "Left"
+msgstr "Cлева"
+
+#: admin/txt-admin.php:480
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: admin/txt-admin.php:477
+msgid "Small"
+msgstr "Маленький"
+
+#: admin/txt-admin.php:474
+msgid "Medium"
+msgstr "Средний"
+
+#: admin/txt-admin.php:471
+msgid "Large"
+msgstr "Большой"
+
+#: admin/txt-admin.php:462
+msgid "Hide Filter"
+msgstr "Скрыть фильтр"
+
+#: admin/txt-admin.php:455
+msgid "Color Schema"
+msgstr "Цветовая схема"
+
+#: admin/txt-admin.php:406
+msgid "What field to use for a search."
+msgstr "Какое поле использовать для поиска."
+
+#: admin/txt-admin.php:403
+msgid "Control Size"
+msgstr "Размер контроля"
+
+#: admin/txt-admin.php:400
+msgid "Labels & Filters"
+msgstr "Этикетки и фильтры"
+
+#: admin/txt-admin.php:350
+msgid "Shortcode Parameter"
+msgstr "Параметр шорткода"
+
+#: admin/txt-admin.php:347
+msgid "Add category slugs. Category names will show up as item names."
+msgstr "Добавьте ярлыки категории. Имена категорий будут отображаться как имена элементов."
+
+#: admin/txt-admin.php:338
+msgid "Examples: <strong>All, Any</strong>"
+msgstr "Например: <strong>Все, Любой</strong>"
+
+#: admin/txt-admin.php:300
+msgid "Label - All Records"
+msgstr "Этикетка - Все записи"
+
+#: admin/txt-admin.php:213
+msgid "AZ Filter"
+msgstr "Фильтр AZ"
+
+#: admin/txt-admin.php:210
+msgid "Filter Type"
+msgstr "Тип фильтра"
+
+#: admin/txt-admin.php:207
+msgid "Filter"
+msgstr "Фильтр"
+
+#: admin/txt-admin.php:145
+msgid "Items"
+msgstr "Элементы"
+
+#: admin/txt-admin.php:139
+msgid "Text"
+msgstr "Текст"
+
+#: admin/txt-admin.php:120
+msgid "Records per Page"
+msgstr "Записи на страницу"
+
+#: admin/txt-admin.php:117
+msgid "Pagination"
+msgstr "Нумерация страниц"
+
+#: admin/txt-admin.php:979
+msgid "Field Description (Email Address)"
+msgstr "Описание поля (адрес электронной почты)"
+
+#: admin/txt-admin.php:958
+msgid "Single Page Image"
+msgstr "Изображение одной страницы"
+
+#: admin/txt-admin.php:955
+msgid "Staff Page Image"
+msgstr "Изображение страницы персонала"
+
+#: admin/txt-admin.php:930
+msgid "Field Label (URL)"
+msgstr "Этикетка поля (URL)"
+
+#: admin/txt-admin.php:765
+msgid "Show a wireframe to assist with laying out content."
+msgstr "Покажите каркас, чтобы облегчить разметку содержимого."
+
+#: admin/txt-admin.php:707
+msgid "Hyperlink requires two fields: <b>Text</b>  and <b>URL</b>. Text is the visible part. The URL specifies the destination address of the link."
+msgstr "Гиперссылка требует двух полей: <b> Текст </b> и <b> URL </b>. Текст - это видимая часть. URL-адрес указывает целевой адрес ссылки."
+
+#: admin/txt-admin.php:114
+msgid "Image ID"
+msgstr "ID изображения"
+
+#: admin/txt-admin.php:297
+msgid "Convert Template to a New Layout."
+msgstr "Преобразование шаблона в новый макет."
+
+#: admin/txt-admin.php:335
+msgid "Converts one template layout to another layout."
+msgstr "Преобразует один макет шаблона в другой макет."
+
+#: admin/txt-admin.php:917
+msgid "All requred options have to be selected."
+msgstr "Необходимо выбрать все требуемые параметры."
+
+#: admin/txt-admin.php:741
+msgid "Create Records"
+msgstr "Создать записи"
+
+#: admin/txt-admin.php:654
+msgid "Template Layout"
+msgstr "Макет шаблона"
+
+#: admin/txt-admin.php:428
+msgid "Field Location on a Single Page"
+msgstr "Расположение поля на одной странице"
+
+#: admin/txt-admin.php:247
+msgid "Quick Start"
+msgstr "Быстрый старт"
+
+#: admin/txt-admin.php:111
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/txt-admin.php:108
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: admin/txt-admin.php:105
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin/txt-admin.php:102
+msgid "Item Inner Container"
+msgstr "Предмет Внутренний контейнер"
+
+#: admin/txt-admin.php:99
+msgid "Template Converter"
+msgstr "Конвертер шаблонов"
+
+#: admin/txt-admin.php:61
+msgid "Template to Convert"
+msgstr "Шаблон для преобразования"
+
+#: admin/txt-admin.php:58
+msgid "Template Name"
+msgstr "Название шаблона"
+
+#: admin/txt-admin.php:1013
+msgid "How link Staff page to a Single Page."
+msgstr "Как связать страницу персонала с единой страницей."
+
+#: admin/txt-admin.php:1004
+msgid "How to create and publish single page."
+msgstr "Как создать и опубликовать отдельную страницу."
+
+#: admin/txt-admin.php:967
+msgid "The number of columns in a row."
+msgstr "Количество столбцов в строке."
+
+#: admin/txt-admin.php:914
+msgid "Field Locked. Editing disabled."
+msgstr "Поле заблокировано. Редактирование отключено."
+
+#: admin/txt-admin.php:911
+msgid "Lock the field to prevent accidental changes."
+msgstr "Заблокируйте поле, чтобы предотвратить случайные изменения."
+
+#: admin/txt-admin.php:834
+msgid "Single Page URL"
+msgstr "URL одной страницы"
+
+#: admin/txt-admin.php:796
+msgid "Link Text"
+msgstr "Текст ссылки"
+
+#: admin/txt-admin.php:762
+msgid "Visual Assistance"
+msgstr "Визуальная помощь"
+
+#: admin/txt-admin.php:716
+msgid "Select on what page type the field will show up."
+msgstr "Выберите, на какой странице будет отображаться поле."
+
+#: admin/txt-admin.php:697
+msgid "Text displayed on top of the data entry form."
+msgstr "Текст, отображаемый в верхней части формы для ввода данных."
+
+#: admin/txt-admin.php:676
+msgid "Image top, text bottom."
+msgstr "Изображение вверху, текст внизу."
+
+#: admin/txt-admin.php:672
+msgid "Enter the URL of social media accounts."
+msgstr "Введите URL-адрес учетной записи в социальных сетях."
+
+#: admin/txt-admin.php:645
+msgid "Single Staff Member page is optional."
+msgstr "Страница единственного сотрудника не является обязательной."
+
+#: admin/txt-admin.php:635
+msgid "This template has no social links activated."
+msgstr "В этом шаблоне не активированы ссылки на социальные сети."
+
+#: admin/txt-admin.php:449
+msgid "Show Link"
+msgstr "Показать ссылку"
+
+#: admin/txt-admin.php:437
+msgid "Open in a new tab or window."
+msgstr "Открыть в новой вкладке или в новом окне."
+
+#: admin/txt-admin.php:418
+msgid "Show All as a last item."
+msgstr "Показать все как последний элемент."
+
+#: admin/txt-admin.php:387
+msgid "Example: <strong>Profile, Bio, Detail, More...</strong>"
+msgstr "Пример: <strong> Профиль, Биография, Подробности, Еще… </strong>"
+
+#: admin/txt-admin.php:366
+msgid "Container Bottom Margin"
+msgstr "Нижний  внешний отступ контейнера"
+
+#: admin/txt-admin.php:362
+msgid "Container Left-Right Margins"
+msgstr "Поля левого-правого контейнера внешнего отступа"
+
+#: admin/txt-admin.php:359
+msgid "Grid Container"
+msgstr "Сетка Контейнер"
+
+#: admin/txt-admin.php:356
+msgid "Comma delimited list of single characters. Displayed as items and used as filters. Example: A,B,C,D,E,F,G"
+msgstr "Список отдельных символов, разделенных запятыми. Отображается как элементы и используется как фильтры. Пример: A, B, C, D, E, F, G"
+
+#: admin/txt-admin.php:341
+msgid "Category Page URL"
+msgstr "URL страницы категории"
+
+#: admin/txt-admin.php:936
+msgid "Menu"
+msgstr "Меню"
+
+#: admin/txt-admin.php:312
+msgid "Black"
+msgstr "Черный"
+
+#: admin/txt-admin.php:309
+msgid "Dark Gray"
+msgstr "Темно-серый"
+
+#: admin/txt-admin.php:306
+msgid "Gray"
+msgstr "Серый"
+
+#: admin/txt-admin.php:303
+msgid "Category Slugs"
+msgstr "Ярлыки категории"
+
+#: admin/txt-admin.php:294
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: admin/txt-admin.php:291
+msgid "Active Item Decoration"
+msgstr "Украшение активного предмета"
+
+#: admin/txt-admin.php:288
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: admin/txt-admin.php:285
+msgid "Menu Item"
+msgstr "Пункт меню"
+
+#: admin/txt-admin.php:281
+msgid "Bottom Margin"
+msgstr "Нижний внешний отступ"
+
+#: admin/txt-admin.php:278
+msgid "Menu Container"
+msgstr "Контейнер меню"
+
+#: admin/txt-admin.php:269
+msgid "Default: 1%"
+msgstr "По умолчанию: 1%"
+
+#: admin/txt-admin.php:238
+msgid "Left-Right Margins"
+msgstr "Левое-правое поля"
+
+#: admin/txt-admin.php:198
+msgid "Custom Link"
+msgstr "Пользовательская ссылка"
+
+#: admin/txt-admin.php:465
+msgid "Categories"
+msgstr "Категории"
+
+#: admin/txt-admin.php:179
+msgid "Utilities"
+msgstr "Утилиты"
+
+#: admin/txt-admin.php:176
+msgid "Icons"
+msgstr "Значки"
+
+#: admin/txt-admin.php:173
+msgid "Social Media Links (Icons)"
+msgstr "Ссылки на социальные сети (значки)"
+
+#: admin/txt-admin.php:170
+msgid "Show Links"
+msgstr "Показать ссылки"
+
+#: admin/txt-admin.php:167
+msgid "Social Icons"
+msgstr "Социальные иконки"
+
+#: admin/txt-admin.php:164
+msgid "Number of Columns"
+msgstr "Число столбцов"
+
+#: admin/txt-admin.php:161
+msgid "Menu Items Page"
+msgstr "Страница пунктов меню"
+
+#: admin/txt-admin.php:157
+msgid "Center Items"
+msgstr "Центральные элементы"
+
+#: admin/txt-admin.php:154
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: admin/txt-admin.php:148
+msgid "Menu Items Left/Right Margins"
+msgstr "Пункты меню Левое / Правое поля"
+
+#: admin/txt-admin.php:595
+msgid "Menu Items"
+msgstr "Пункты меню"
+
+#: admin/txt-admin.php:142
+msgid "None"
+msgstr "Никто"
+
+#: admin/txt-admin.php:136
+msgid "Highlight"
+msgstr "Выделять"
+
+#: admin/txt-admin.php:133
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: admin/txt-admin.php:130
+msgid "Border"
+msgstr "Граница"
+
+#: admin/txt-admin.php:86
+msgid "License & Help"
+msgstr "Лицензия и помощь"
+
+#: admin/txt-admin.php:83
+msgid "Caption"
+msgstr "Подпись"
+
+#: admin/txt-admin.php:77
+msgid "Add Defaults"
+msgstr "Добавить значения по умолчанию"
+
+#: admin/txt-admin.php:71
+msgid "Activate Key"
+msgstr "Активировать ключ"
+
+#: admin/txt-admin.php:36
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: admin/txt-admin.php:30
+msgid "License"
+msgstr "Лицензия"
+
+#: admin/txt-admin.php:992
+msgid "Displays a single staff member."
+msgstr "Отображает одного сотрудника."
+
+#: admin/txt-admin.php:790
+msgid "Optional. Provide the user some direction on how the field should be filled out."
+msgstr "По желанию. Дайте пользователю указания относительно того, как следует заполнять поле."
+
+#: admin/txt-admin.php:734
+msgid "Form Title"
+msgstr "Заголовок формы"
+
+#: admin/txt-admin.php:731
+msgid "Icons Container Style"
+msgstr "Стиль контейнера значков"
+
+#: admin/txt-admin.php:722
+msgid "Set up how and what data is displayed on Staff and Single Staff pages."
+msgstr "Настройте, как и какие данные будут отображаться на страницах Staff и Single Staff."
+
+#: admin/txt-admin.php:393
+msgid "Field to Search"
+msgstr "Поле для поиска"
+
+#: admin/txt-admin.php:381
+msgid "Field Options"
+msgstr "Параметры поля"
+
+#: admin/txt-admin.php:375
+msgid "Order - Single"
+msgstr "Заказ - Одиночный"
+
+#: admin/txt-admin.php:372
+msgid "Order - Staff"
+msgstr "Заказ - Персонал"
+
+#: admin/txt-admin.php:970
+msgid "Bottom Section"
+msgstr "Нижняя секция"
+
+#: admin/txt-admin.php:945
+msgid "Default: 40 pixels."
+msgstr "По умолчанию: 40 пикселей."
+
+#: admin/txt-admin.php:933
+msgid "Single Page SEO Options"
+msgstr "Параметры SEO для одной страницы"
+
+#: admin/txt-admin.php:927
+msgid "Item Container"
+msgstr "Контейнер для предметов"
+
+#: admin/txt-admin.php:877
+msgid "Top Section"
+msgstr "Верхняя секция"
+
+#: admin/txt-admin.php:831
+msgid "Optional."
+msgstr "По желанию."
+
+#: admin/txt-admin.php:772
+msgid "Text Container"
+msgstr "Текстовый контейнер"
+
+#: admin/txt-admin.php:713
+msgid "Person name or any other text. Example: <b>john-smith</b>. No spaces!"
+msgstr "Имя человека или любой другой текст. Пример: <b> джон-смит </b>. Без пробелов!"
+
+#: admin/txt-admin.php:694
+msgid "Static Label Style"
+msgstr "Статический стиль этикетки"
+
+#: admin/txt-admin.php:657
+msgid "Template has no fields."
+msgstr "В шаблоне нет полей."
+
+#: admin/txt-admin.php:468
+msgid "Hide Record (do not show up at the front end)."
+msgstr "Скрыть запись (не показывать в интерфейсе)."
+
+#: admin/txt-admin.php:452
+msgid "Disregard if field is not selected to show up on a Single Page."
+msgstr "Не обращайте внимания, если поле не выбрано для отображения на одной странице."
+
+#: admin/txt-admin.php:443
+msgid "Middle Section"
+msgstr "Средняя часть"
+
+#: admin/txt-admin.php:1513
+msgid "Field Style"
+msgstr "Стиль поля"
+
+#: admin/txt-admin.php:421
+msgid "Random"
+msgstr "Случайный"
+
+#: admin/txt-admin.php:409
+msgid "Hide = Keep data, don't display field on the front end."
+msgstr "Скрывать = Хранить данные, не отображать поле в интерфейсе пользователя."
+
+#: admin/txt-admin.php:397
+msgid "Field Style - Single Page"
+msgstr "Стиль поля - одна страница"
+
+#: admin/txt-admin.php:384
+msgid "Field parts are separated with a space. Use suffix option to add commas or other separators."
+msgstr "Части поля разделяются пробелом. Используйте параметр суффикса, чтобы добавить запятые или другие разделители."
+
+#: admin/txt-admin.php:369
+msgid "Part"
+msgstr "Часть"
+
+#: admin/txt-admin.php:353
+msgid "Image left, text right."
+msgstr "Изображение слева, текст справа."
+
+#: admin/txt-admin.php:244
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: admin/txt-admin.php:229
+msgid "Show On"
+msgstr "Покажите"
+
+#: admin/txt-admin.php:226
+msgid "Hide/Delete"
+msgstr "Скрыть / Удалить"
+
+#: admin/txt-admin.php:223
+msgid "Staff Page + Single Page"
+msgstr "Страница персонала + отдельная страница"
+
+#: admin/txt-admin.php:219
+msgid "Single Page"
+msgstr "Отдельная страница"
+
+#: admin/txt-admin.php:216
+msgid "Staff Page"
+msgstr "Страница персонала"
+
+#: admin/txt-admin.php:192
+msgid "Manual"
+msgstr "Руководство по эксплуатации"
+
+#: admin/txt-admin.php:614
+msgid "Email link requires two input fields: <b>Text</b>  and <b>Email Adress</b>. The Text is the visible part displayed on the page."
+msgstr "Для ссылки электронной почты требуется два поля ввода: <b> Текст </b> и <b> Адрес электронной почты </b>. Текст - это видимая часть, отображаемая на странице."
+
+#: admin/txt-admin.php:800
+msgid "Optional. Default: 100%. Valid formats: px, %. Example: 15px, 15%. No entry = default value."
+msgstr "По желанию. По умолчанию: 100%. Допустимые форматы: px,%. Пример: 15 пикселей, 15%. Нет записи = значение по умолчанию."
+
+#: admin/txt-admin.php:775
+msgid "Default: <b>abcfslPadLPc5</b> (padding left 5%)"
+msgstr "По умолчанию: <b> abcfslPadLPc5 </b> (отступ слева 5%)"
+
+#: admin/txt-admin.php:688
+msgid "The CSS style you would like to use in order to override the default styles for this field."
+msgstr "Стиль CSS, который вы хотите использовать, чтобы переопределить стили по умолчанию для этого поля."
+
+#: admin/txt-admin.php:266
+msgid "Center Image Horizontally"
+msgstr "Центрировать изображение по горизонтали"
+
+#: admin/txt-admin.php:263
+msgid "Center Container"
+msgstr "Центральный контейнер"
+
+#: admin/txt-admin.php:151
+msgid "Font"
+msgstr "Шрифт"
+
+#: admin/txt-admin.php:68 admin/txt-admin.php:250
+msgid "Custom"
+msgstr "Пользоватьские"
+
+#: admin/txt-admin.php:27
+msgid "Default"
+msgstr "По умолчанию"
+
+#. Author URI of the plugin
+msgid "https://www.abcfolio.com"
+msgstr "https://www.abcfolio.com"
+
+#. Author of the plugin
+msgid "abcFolio"
+msgstr "abcFolio"
+
+#. Plugin URI of the plugin
+msgid "https://abcfolio.com/wordpress-plugin-staff-list/"
+msgstr "https://abcfolio.com/wordpress-plugin-staff-list/"
+
+#: incf/post-types.php:55 incf/post-types.php:56
+msgid "Staff Member"
+msgstr "Штатный сотрудник"
+
+#: incf/post-types.php:53 incf/post-types.php:57
+msgid "Staff Members"
+msgstr "Штатные сотрудники"
+
+#: admin/txt-admin.php:1426
+msgid "No Records Found"
+msgstr "Записей не найдено"
+
+#: incf/post-types.php:54
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: admin/txt-admin.php:1007
+msgid "You can't delete this template. It's used by one or more staff members."
+msgstr "Вы не можете удалить этот шаблон. Он используется для одного или нескольких сотрудников."
+
+#: admin/txt-admin.php:995
+msgid "Custom CSS Class"
+msgstr "Пользовательский класс CSS"
+
+#: admin/txt-admin.php:989
+msgid "Delete Field"
+msgstr "Удалить поле"
+
+#: admin/txt-admin.php:986
+msgid "Add a New Field"
+msgstr "Добавить новое поле"
+
+#: admin/txt-admin.php:976
+msgid "Field Description (URL)"
+msgstr "Описание поля (URL)"
+
+#: admin/txt-admin.php:961
+msgid "Image URL"
+msgstr "URL изображения"
+
+#: admin/txt-admin.php:951
+msgid "Optional. Text container can span the width of the column or be limited to width of the image."
+msgstr "По желанию. Контейнер текста может охватывать ширину столбца или ограничиваться шириной изображения."
+
+#: admin/txt-admin.php:924
+msgid "Field Label (Email Adress)"
+msgstr "Этикетка поля (адрес электронной почты)"
+
+#: admin/txt-admin.php:241
+msgid "Hide"
+msgstr "Нет"
+
+#: admin/txt-admin.php:905
+msgid "Demo Records"
+msgstr "Демо-записи"
+
+#: admin/txt-admin.php:896
+msgid "Field ID"
+msgstr "ID поля"
+
+#: admin/txt-admin.php:889
+msgid "Custom Inline Style"
+msgstr "Пользовательский встроенный стиль"
+
+#: admin/txt-admin.php:886
+msgid "Demo"
+msgstr "Как это выглядит"
+
+#: admin/txt-admin.php:883
+msgid "Field HTML Tag"
+msgstr "HTML-тег поля"
+
+#: admin/txt-admin.php:880
+msgid "Field Display Options"
+msgstr "Параметры отображения поля"
+
+#: admin/txt-admin.php:1023
+msgid "Staff Order"
+msgstr "Приказ персонала"
+
+#: admin/txt-admin.php:855
+msgid "Text Container Width = Image Width"
+msgstr "Ширина текстового блока = ширина изображения"
+
+#: admin/txt-admin.php:824
+msgid "Staff Member Data"
+msgstr "Данные о сотрудниках"
+
+#: admin/txt-admin.php:821
+msgid "Swiching templates may cause loss of data."
+msgstr "Переключение шаблона может привести к потере данных."
+
+#: admin/txt-admin.php:818
+msgid "No list items found. There maybe no items or none of the existing items is linked to this template."
+msgstr "Не найдены пункты списка. Возможно нет пунктов или ни один из существующих пунктов не подключен к шаблону."
+
+#: admin/txt-admin.php:648
+msgid "Field Container Style"
+msgstr "Стиль контейнера поля"
+
+#: admin/txt-admin.php:809
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: admin/txt-admin.php:803
+msgid "Image Link"
+msgstr "Ссылка изображения"
+
+#: admin/txt-admin.php:793
+msgid "Hyperlink Style"
+msgstr "Стиль гиперссылки"
+
+#: admin/txt-admin.php:784
+msgid "Simply drag the items up or down and they will be saved in that order."
+msgstr "Просто перетащите элементы вверх или вниз, и они будут сохранены в указанном порядке."
+
+#: admin/txt-admin.php:781
+msgid "Default: Padding top 5%."
+msgstr "По умолчанию: отступ сверху 5%."
+
+#: admin/txt-admin.php:769
+msgid "Item Columns - Width"
+msgstr "Столбцы элементов - Ширина"
+
+#: admin/txt-admin.php:753
+msgid "Field Description (Link Text)"
+msgstr "Описание поля (текст ссылки)"
+
+#: admin/txt-admin.php:750
+msgid "Select Template"
+msgstr "Выберите шаблон"
+
+#: admin/txt-admin.php:703
+msgid "Static Label + Hyperlink"
+msgstr "Статичная этикетка + гиперссылка"
+
+#: admin/txt-admin.php:257
+msgid "Text Style"
+msgstr "Стиль текста"
+
+#: admin/txt-admin.php:682
+msgid "Field Type"
+msgstr "Тип поля"
+
+#: admin/txt-admin.php:440
+msgid "Two columns. Image left, text right."
+msgstr "Две колонны. Изображение слева, текст справа."
+
+#: admin/txt-admin.php:1429
+msgid "Field Order"
+msgstr "Порядок полей"
+
+#: admin/txt-admin.php:1079
+msgid "Staff Template"
+msgstr "Шаблон персонала"
+
+#: admin/txt-admin.php:651
+msgid "What type of content the field will contain: text, hyperlink, email etc."
+msgstr "Какой тип контента будет содержать поле: текст, гиперссылка, электронная почта и т. Д."
+
+#: admin/txt-admin.php:641
+msgid "Field Description"
+msgstr "Описание поля"
+
+#: admin/txt-admin.php:638
+msgid "Field Label"
+msgstr "Этикетка поля"
+
+#: admin/txt-admin.php:629
+msgid "Field Label (Link Text)"
+msgstr "Этикетка поля (текст ссылки)"
+
+#: admin/txt-admin.php:1494
+msgid "Custom Styles"
+msgstr "Пользовательские стили"
+
+#: admin/txt-admin.php:331
+msgid "Blank (no entry) = default value."
+msgstr "Пробел (без ввода) = значение по умолчанию."
+
+#: admin/txt-admin.php:328
+msgid "Default: 0 (zero pixels)."
+msgstr "По умолчанию: 0 (ноль пикселей)."
+
+#: admin/txt-admin.php:325
+msgid "Default: 100%, of the parent container."
+msgstr "По умолчанию: 100% родительского контейнера."
+
+#: admin/txt-admin.php:322
+msgid "Default: 100%."
+msgstr "По умолчанию: 100%."
+
+#: admin/txt-admin.php:319
+msgid "Valid data entry formats for Width or Margins: 15, 15px, 15%, 1em. Blank (no entry) = default value."
+msgstr "Допустимые форматы ввода данных для ширины или полей: 15, 15 пикселей, 15%, 1em. Пробел (без ввода) = значение по умолчанию."
+
+#. Plugin Name of the plugin
+msgid "Staff List"
+msgstr "Staff List"
+
+#: admin/txt-admin.php:126
+msgid "Custom Text"
+msgstr "Произвольный текст"
+
+#: admin/txt-admin.php:95
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/txt-admin.php:92
+msgid "Description"
+msgstr "Описание"
+
+#: admin/txt-admin.php:89
+msgid "Image"
+msgstr "Изображение"
+
+#: admin/txt-admin.php:80
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin/txt-admin.php:55
+msgid "Left Margin"
+msgstr "Левый отступ"
+
+#: admin/txt-admin.php:52
+msgid "Top Margin"
+msgstr "Верхний отступ"
+
+#: admin/txt-admin.php:49
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/txt-admin.php:46
+msgid "Layout"
+msgstr "Макет страницы"
+
+#: admin/txt-admin.php:43
+msgid "Admin"
+msgstr "Администратор"
+
+#: admin/txt-admin.php:40
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/txt-admin.php:33
+msgid "Options"
+msgstr "Параметры"
+
+#: admin/txt-admin.php:24
+msgid "No"
+msgstr "Нет"
+
+#: admin/txt-admin.php:21
+msgid "Yes"
+msgstr "Да"
+
+#: admin/txt-admin.php:18
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: admin/txt-admin.php:12
+msgid "Images"
+msgstr "Изображения"
+
+#: admin/txt-admin.php:9
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/admin-scripts.php:56 admin/admin-scripts.php:57
+#: admin/admin-scripts.php:70 admin/admin-scripts.php:71
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: staff-list.php:59 staff-list.php:64
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
