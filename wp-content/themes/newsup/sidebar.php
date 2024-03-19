@@ -52,36 +52,28 @@ function get_birthday_widget($users, $length = 5)
 	$intlFormatter = new IntlDateFormatter('ru_RU', IntlDateFormatter::SHORT, IntlDateFormatter::SHORT);
 	$intlFormatter->setPattern('d MMMM');
 ?>
-	<div id="until_the_birthday" class="mg-widget widget_recent_entries">
-		<div class="mg-wid-title">
-			<h6>Ближайшие дни рождения</h6>
-		</div>
-		<ul>
-			<? foreach ($users as $user) {
-				$userLink = "<a href='http://localhost/myKtr/profile/?smid={$user['post_id']}'>{$user['name']}</a>";
-				$userWorkPlace = $user['work_place'];
-				$short_birthday = new DateTime($user['birthday']);
-				$short_birthday = $intlFormatter->format($short_birthday);
-			?>
-				<li>
-					<strong><?= $userLink ?></strong>
-					<br>
-					<?= $userWorkPlace ?>
-					<br>
-					<?= $short_birthday ?>
-				</li>
-			<? } ?>
-		</ul>
-	</div>
-<?
+    <div id="until_the_birthday" class="mg-widget widget_recent_entries">
+        <div class="mg-wid-title">
+            <h6>Ближайшие дни рождения</h6>
+        </div>
+        <ul>
+            <?php foreach ($users as $user) : ?>
+                <?php
+                $userLink = "<a href='http://localhost/myKtr/profile/?smid={$user['post_id']}'>{$user['name']}</a>";
+                $userWorkPlace = $user['work_place'];
+                $short_birthday = new DateTime($user['birthday']);
+                $short_birthday = isset($intlFormatter) ? $intlFormatter->format($short_birthday) : '';
+                ?>
+                <li>
+                    <strong><?= $userLink ?></strong>
+                    <br>
+                    <?= $userWorkPlace ?>
+                    <br>
+                    <?= $short_birthday ?>
+                </li>
+            <?php endforeach; ?>
+        </ul>
+    </div>
+<?php
 }
 ?>
-
-<aside id="secondary" class="widget-area" role="complementary">
-
-	<div id="sidebar-right" class="mg-sidebar">
-
-		<?php get_birthday_widget($users, 10); ?>
-		<?php dynamic_sidebar('sidebar-1'); ?>
-	</div>
-</aside><!-- #secondary -->
